@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Continue o ADO 2.
+Continue o ADO 2 com AJAX e login/senha.
 
 ## Etapas
 
