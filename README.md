@@ -24,3 +24,5 @@ A tabela de usuários se chama `usuario` e contém os seguintes campos:
 * `nome` - Tipo `TEXT`.
 
 Nenhum dos campos permite `NULL`. Não está sendo pedida nenhuma funcionalidade de cadastro de usuários, portanto você deve pré-popular o banco de dados com os usuários.
+
+PRAZO: Último dia de aula de JavaScript (acho que 16/06).
