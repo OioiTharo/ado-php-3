@@ -1,0 +1,130 @@
+body{
+	font-family: ;
+	
+}
+.cabecalho{
+	text-align: center;
+	margin: auto;
+	display: block;
+	padding-bottom: 10px;
+}
+.gif{
+	width: 6%;
+}
+.dTa{
+	border: 3px solid #7fe5eb; 
+	margin: 15px;
+	display: block;
+}
+.tMus{
+	margin: auto;
+	border: #f48efc;
+	font-size: 16px;
+	/*#f48efc*/
+}
+.btn{
+	color:#f48efc;
+	border: none;
+}
+.btn:hover{
+	color:#7fe5eb; 
+}
+.dBot{
+	text-align: center;
+	display: block;
+	position: bottom;
+}
+.prin, .prin:disabled{
+	background-color:#7fe5eb; 
+	border: none;
+	color: white;
+	font-size: 25px;
+}
+.prin:hover, .prin:active, .prin:focus{
+	background-color:#f48efc;
+	border: none;
+	color: white;
+}
+p{
+	padding: 15px;
+	color:#bcbcbc;
+}
+.dFor{
+	border: 3px solid #7fe5eb; 
+	margin: 15px;
+}
+.dFor2{
+	border: 3px solid #f48efc;
+	margin: 15px;
+}
+h2{
+	text-align: center;
+}
+form{
+	padding:15px;
+	margin: auto;
+	display: block;
+}
+.pad{
+	padding: 3px;
+}
+.cad, .cad:disabled{
+	background-color:#7fe5eb; 
+	border: none;
+	color: white;
+	font-size: 15px;
+	width: 50%;
+	margin: auto;
+	display: block;
+}
+.cad:hover, .cad:active, .cad:focus{
+	background-color:#f48efc;
+	border: none;
+	color: white;
+}
+
+.sal, .sal:disabled{
+	background-color:#f48efc;
+	border: none;
+	color: white;
+	font-size: 15px;
+	width: 50%;
+	margin: auto;
+	display: block;
+}
+.sal:hover, .sal:active, .sal:focus{
+	background-color:#7fe5eb; 
+	border: none;
+	color: white;
+}
+.voltar{
+	height: 40px;
+	padding-left: 15px;
+	margin-bottom: 20px;
+}
+
+.estM{
+	width: 180px;
+	max-height: 100px;
+	margin: auto;
+	display: block;
+}
+.ests{
+	border: 2px solid #7fe5eb; 
+	height: 200px;
+	width: 200px;
+	overflow: auto;
+	margin: 0px 35% 40px;
+	display:block;
+}
+.verM{
+	margin: auto;
+	display: block;
+}
+.versM{
+	border: 2px solid #7fe5eb; 
+	height: 100%;
+	width: 80px;
+	margin: -220px 55% 30px;
+	display:block;
+}
