@@ -1,0 +1,154 @@
+body{
+	background-image: url("image.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	position: relative;
+	
+}
+.ok{
+	margin: 200px 0 0 -200px;
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	background-color: white;
+	width: 400px;
+	height: 280px;
+	border-radius: 15px;
+	padding: 15px;
+}
+h2{
+	text-align: center;
+	color:#f48efc; 
+	/*#7fe5eb;*/ 
+}
+.logar, .logar:disabled{
+	background-color:#7fe5eb; 
+	border: none;
+	color: white;
+	font-size: 15px;
+	width: 60%;
+	margin: auto;
+	display: block;
+}
+.logar:hover, .logar:active, .logar:focus{
+	background-color:#f48efc;
+	border: none;
+	color: white;
+}
+.pin{
+	margin: auto;
+	display: block;
+	background-color: white;
+	width: 80%;
+	height: 100%;
+	border-radius: 15px;
+	padding: 15px;
+}
+table{
+	padding: 15px;
+}
+.btn{
+	color:#f48efc;
+	border: none;
+}
+.btn:hover{
+	color:#7fe5eb; 
+}
+.prin, .prin:disabled{
+	background-color:#7fe5eb; 
+	border: none;
+	color: white;
+	font-size: 25px;
+}
+.prin:hover, .prin:active, .prin:focus{
+	background-color:#f48efc;
+	border: none;
+	color: white;
+}
+.tMus{
+	margin-top: 25px;
+}
+.cabecalho{
+	text-align: center;
+}
+.cb{
+	height: 60px;
+}
+h4{
+	color:#7fe5eb;
+	text-shadow: 0 0.06em 0.08em #000;
+}
+.dBot{
+	text-align: center;
+}
+.estM{
+	width: 180px;
+	max-height: 100px;
+	margin: auto;
+	display: block;
+}
+.ests{
+	border: 2px solid #7fe5eb; 
+	height: 200px;
+	width: 200px;
+	overflow: auto;
+	margin: 0px 35% 40px;
+	display:block;
+}
+.verM{
+	margin: auto;
+	display: block;
+}
+.versM{
+	border: 2px solid #7fe5eb; 
+	height: 100%;
+	width: 120px;
+	margin: -240px 55% 30px;
+	display:block;
+}
+.cad, .cad:disabled{
+	background-color:#7fe5eb; 
+	border: none;
+	color: white;
+	font-size: 15px;
+	width: 50%;
+	margin: auto;
+	display: block;
+}
+.cad:hover, .cad:active, .cad:focus{
+	background-color:#f48efc;
+	border: none;
+	color: white;
+}
+.dFor{
+	border: 3px solid #7fe5eb; 
+	margin: auto;
+	padding: 10px;
+}
+.dFor2{
+	border: 3px solid #f48efc;
+	margin: 15px;
+	padding: 10px;
+}
+.voltar{
+	height: 40px;
+	padding-left: 15px;
+	margin-bottom: 20px;
+}
+.sal, .sal:disabled{
+	background-color:#f48efc;
+	border: none;
+	color: white;
+	font-size: 15px;
+	width: 50%;
+	margin: 15px auto;
+	display: block;
+}
+.sal:hover, .sal:active, .sal:focus{
+	background-color:#7fe5eb; 
+	border: none;
+	color: white;
+}
