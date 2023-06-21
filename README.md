@@ -2,4 +2,4 @@
 
 PASTA ADO É A CORRETA, NAO CONSEGUI EXCLUIR A OUTRA :)
 
-Grupo: Thais Rodrigues e Giovanna Bonavolontá
+Grupo: Thais Rodrigues, Giovanna Barros e Giovanna Bonavolontá
